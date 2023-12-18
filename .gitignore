@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# Settings file
+*.settings
+
 # BlueJ files
 *.ctxt
 
