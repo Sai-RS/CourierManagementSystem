@@ -5,7 +5,10 @@
 *.log
 
 # Settings file
-*.settings
+settings/
+bin/
+*.classpath
+*.project
 
 # BlueJ files
 *.ctxt
